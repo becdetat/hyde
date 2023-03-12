@@ -1,5 +1,4 @@
-﻿using Android.Runtime;
-using Foundation;
+﻿using Foundation;
 
 namespace Hyde;
 
